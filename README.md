@@ -7,6 +7,7 @@ Note 2 : If you have any comment/suggestion, if you find this code useful --> pl
 
 NCEP data can be downloaded here :
 ftp2.psl.noaa.gov/Projects/Datasets/ncep.reanalysis.dailyavgs/pressure
+ftp2.psl.noaa.gov/Projects/Datasets/ncep.reanalysis.dailyavgs/surface
 
 If you can't find the data ask me and I'll make it available for you.
 
