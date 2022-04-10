@@ -1,5 +1,5 @@
 # rossby_mid_lat
-Study Rossby waves in mid-latitudes with Hovmoller diagrams
+Study mid-latitudes Rossby waves in daily NCEP 500hPa geopotential and 300hPa meridonal wind data using maps and Hovmoller diagrams
 
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
